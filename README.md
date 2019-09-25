@@ -1,5 +1,5 @@
-# LeetCode by C++
-[LeetCode Online Judge] (https://leetcode.com/) is a website containing many **algorithm questions**. Most of them are real interview questions of **Google, Facebook, LinkedIn, Apple**, etc. This repo shows my solutions by C++. Please feel free to reference and **STAR** to support this repo, thank you!
+# LeetCode by Cpp
+[LeetCode Online Judge] (https://leetcode.com/) is a website containing many **algorithm questions**. Most of them are real interview questions of **Google, Facebook, LinkedIn, Apple**, etc. This repo shows my solutions by Cpp. Please feel free to reference and **STAR** to support this repo, thank you!
 
 ## Data Structures
 
@@ -53,6 +53,7 @@
 | ----  | ------------------------| ------ | ---------- | ---------- | ---- |
 
 ## 分类
+## Array
 | #     |  Tile | Difficulty | Time  | Space | 收藏  |
 |:----: | :---: | :--------: | :---: | :---: | :---: |
 |  
