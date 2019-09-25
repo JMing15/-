@@ -50,6 +50,7 @@
 | 0066  | Plus One       | [GO]() | 41.7%      | Easy	 | # |
 | 0073  | Set Matrix Zeroes     | [GO]() | 40.9%      | Medium	 | # |
 | 0074  | Search a 2D Matrix      | [GO]() | 35.3%      | Medium	 | # |
+| 0078  | Subsets      | [GO]() | 55.2%     | Medium	 | # |
 | ----  | ------------------------| ------ | ---------- | ---------- | ---- |
 
 ## 分类
@@ -57,3 +58,8 @@
 | #     |  Tile | Difficulty | Time  | Space | 收藏  |
 |:----: | :---: | :--------: | :---: | :---: | :---: |
 |  
+
+## Bit Manipulation
+| #     |  Tile | Difficulty | Time  | Space | 收藏  |
+|:----: | :---: | :--------: | :---: | :---: | :---: |
+|  78   |  Subsets | Medium |       |       |  ⭐   |
