@@ -41,6 +41,7 @@
 | 0026  | Remove Duplicates from Sorted Array | [GO]() | 42.0%      | Easy | # |
 | 0027  | Remove Element    | [GO]() | 45.6%      | Easy | # |
 | 0031  | Next Permutation  | [GO]() | 31.1%      | Medium | # |
+| 0033  | Search in Rotated Sorted Array      | [GO]() | 33.2%      | Medium | # |
 | 0035  | Search Insert Position    | [GO]() | 41.2%      | Easy | # |
 | 0048  | Rotate Image     | [GO]() | 50.7%      | Medium	 | # |
 | 0054  | Spiral Matrix    | [GO]() | 31.5%      | Medium	 | # |
@@ -51,13 +52,14 @@
 | 0073  | Set Matrix Zeroes     | [GO]() | 40.9%      | Medium	 | # |
 | 0074  | Search a 2D Matrix      | [GO]() | 35.3%      | Medium	 | # |
 | 0078  | Subsets      | [GO]() | 55.2%     | Medium	 | # |
+| 0080  | 	Remove Duplicates from Sorted Array II | [GO]() | 41.4% | Medium	 | # |
 | ----  | ------------------------| ------ | ---------- | ---------- | ---- |
 
 ## 分类
 ## Array
 | #     |  Tile | Difficulty | Time  | Space | 收藏  |
 |:----: | :---: | :--------: | :---: | :---: | :---: |
-|  
+|       |       |            |       |        |         |
 
 ## Bit Manipulation
 | #     |  Tile | Difficulty | Time  | Space | 收藏  |
