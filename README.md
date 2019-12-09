@@ -38,7 +38,7 @@
 | 0013  | Roman to Integer | [GO]() | 53.3%      | Easy | # |
 | 0020  | Valid Parentheses | [GO]() | 37.3%      | Easy | # |
 | 0021  | Merge Two Sorted Lists  | [GO]() | 49.0%      | Easy | # |
-| 0026  | Remove Duplicates from Sorted Array | [GO]() | 42.0%      | Easy | # |
+| 0026  | Remove Duplicates from Sorted Array | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0026) | 42.0%      | Easy | # |
 | 0027  | Remove Element    | [GO]() | 45.6%      | Easy | # |
 | 0031  | Next Permutation  | [GO]() | 31.1%      | Medium | # |
 | 0033  | Search in Rotated Sorted Array      | [GO]() | 33.2%      | Medium | # |
