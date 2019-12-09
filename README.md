@@ -41,7 +41,7 @@
 | 0026  | Remove Duplicates from Sorted Array | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0026) | 42.0%      | Easy | # |
 | 0027  | Remove Element    | [GO]() | 45.6%      | Easy | # |
 | 0031  | Next Permutation  | [GO]() | 31.1%      | Medium | # |
-| 0033  | Search in Rotated Sorted Array      | [GO]() | 33.2%      | Medium | # |
+| 0033  | Search in Rotated Sorted Array      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0033) | 33.2%      | Medium | # |
 | 0035  | Search Insert Position    | [GO]() | 41.2%      | Easy | # |
 | 0048  | Rotate Image     | [GO]() | 50.7%      | Medium	 | # |
 | 0054  | Spiral Matrix    | [GO]() | 31.5%      | Medium	 | # |
@@ -51,24 +51,25 @@
 | 0066  | Plus One       | [GO]() | 41.7%      | Easy	 | # |
 | 0073  | Set Matrix Zeroes     | [GO]() | 40.9%      | Medium	 | # |
 | 0074  | Search a 2D Matrix      | [GO]() | 35.3%      | Medium	 | # |
-| 0078  | Subsets      | [GO]() | 55.2%     | Medium	 | # |
-| 0080  | 	Remove Duplicates from Sorted Array II | [GO]() | 41.4% | Medium	 | # |
-| 0151  | Reverse Words in a String  | [GO](https://leetcode.com/problems/reverse-words-in-a-string/) | 18.5%  | Medium	 | # |
-| 0152  | Maximum Product Subarray  | [GO](https://leetcode.com/problems/maximum-product-subarray/) | 30.4% | Medium	 | # |
-| 0155  | Min Stack    | [GO](https://leetcode.com/problems/min-stack/) | 39.7% | Easy	 | # |
-| 0166  | Fraction to Recurring Decimal  | [GO](https://leetcode.com/problems/fraction-to-recurring-decimal/) | 25.3%  | Medium	 | # |
-| 0167  | Two Sum II - Input array is sorted  | [GO](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 51.9%  | 	Easy	 | # |
-| 0168  | Excel Sheet Column Title  | [GO](https://leetcode.com/problems/excel-sheet-column-title/) | 29.9%  | 	Easy	 | # |
-| 0169  | Majority Element  | [GO](https://leetcode.com/problems/majority-element/) | 54.9%  | 	Easy	 | # |
-| 0171  | Majority Element  | [GO](https://leetcode.com/problems/excel-sheet-column-number/) | 52.8%  | 	Easy	 | # |
-| 0187  | Repeated DNA Sequences | [GO](https://leetcode.com/problems/repeated-dna-sequences/) | 37.4%  | 	Medium	 | # |
-| 0190  | Reverse Bits      | [GO](https://leetcode.com/problems/reverse-bits/) | 41.4%     | Easy	 | # |
-| 0191  | Number of 1 Bits      | [GO](https://leetcode.com/problems/number-of-1-bits/) | 45.8%     | Easy	 | # |
-| 0198  | SuHouse Robberbsets      | [GO](https://leetcode.com/problems/house-robber/) | 41.4%     | Easy	 | # |
-| 0201  | Bitwise AND of Numbers Range      | [GO](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | 36.8%     | Medium		 | # |
-| 0231  | Power of Two      | [GO](https://leetcode.com/problems/power-of-two/) | 42.6%    | Easy		 | # |
-| 0260  | Single Number III      | [GO](https://leetcode.com/problems/single-number-iii/) | 58.9%    | Medium		 | # |
-| 0268  | Missing Number     | [GO](https://leetcode.com/problems/missing-number/) | 49.7%    | Easy		 | # |
+| 0078  | Subsets      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0078) | 55.2%     | Medium	 | # |
+| 0080  | 	Remove Duplicates from Sorted Array II | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0080) | 41.4% | Medium	 | # |
+| 0151  | Reverse Words in a String  | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0151) | 18.5%  | Medium	 | # |
+| 0152  | Maximum Product Subarray  | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0152) | 30.4% | Medium	 | # |
+| 0155  | Min Stack    | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0155) | 39.7% | Easy	 | # |
+
+| 0166  | Fraction to Recurring Decimal  | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0155) | 25.3%  | Medium	 | # |
+| 0167  | Two Sum II - Input array is sorted  | [GO]https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0167) | 51.9%  | 	Easy	 | # |
+| 0168  | Excel Sheet Column Title  | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0168) | 29.9%  | 	Easy	 | # |
+| 0169  | Majority Element  | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0169) | 54.9%  | 	Easy	 | # |
+| 0171  | Majority Element  | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0171) | 52.8%  | 	Easy	 | # |
+| 0187  | Repeated DNA Sequences | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0187) | 37.4%  | 	Medium	 | # |
+| 0190  | Reverse Bits      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0190) | 41.4%     | Easy	 | # |
+| 0191  | Number of 1 Bits      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0191) | 45.8%     | Easy	 | # |
+| 0198  | SuHouse Robberbsets      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0198) | 41.4%     | Easy	 | # |
+| 0201  | Bitwise AND of Numbers Range      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0201) | 36.8%     | Medium		 | # |
+| 0231  | Power of Two      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0231) | 42.6%    | Easy		 | # |
+| 0260  | Single Number III      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0260) | 58.9%    | Medium		 | # |
+| 0268  | Missing Number     | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0268) | 49.7%    | Easy		 | # |
 | ----  | ------------------------| ------ | ---------- | ---------- | ---- |
 
 ## 分类
