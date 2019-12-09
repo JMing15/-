@@ -57,7 +57,7 @@
 | 0152  | Maximum Product Subarray  | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0152) | 30.4% | Medium	 | # |
 | 0155  | Min Stack    | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0155) | 39.7% | Easy	 | # |
 | 0166  | Fraction to Recurring Decimal  | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0155) | 25.3%  | Medium	 | # |
-| 0167  | Two Sum II - Input array is sorted  | [GO]https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0167) | 51.9%  | 	Easy	 | # |
+| 0167  | Two Sum II - Input array is sorted  | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0167) | 51.9%  | 	Easy	 | # |
 | 0168  | Excel Sheet Column Title  | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0168) | 29.9%  | 	Easy	 | # |
 | 0169  | Majority Element  | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0169) | 54.9%  | 	Easy	 | # |
 | 0171  | Majority Element  | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0171) | 52.8%  | 	Easy	 | # |
