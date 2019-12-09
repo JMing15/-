@@ -92,14 +92,14 @@
 |  155 | Min Stack |  Easy  |       |        |         |
 
 ## Bit Manipulation
-* 异或的特性。第136题。
+- 异或的特性。第136题。
 ```
 x ^ 0 = x（136题）
 x ^ x = 0（136题） 
 a ^ b ^ c = a ^ (b ^ c) = (a ^ b) ^ c（结合律）（136题）
 ```
 
-* 有特殊意义的&位操作运算
+- 有特殊意义的&位操作运算
 ```
 x &= (x-1) 将最低位（LSB）的1清零 (201题、231题)
 x & -x 得到最低位(LSB)的1
@@ -123,7 +123,7 @@ x & -x 得到最低位(LSB)的1
 |  78   |  Subsets | Medium |       |       |  ⭐   |
 
 - 参考：
-    [1.回溯算法详解](https://mp.weixin.qq.com/s/nMUHqvwzG2LmWA9jMIHwQQ)
+    - [回溯算法详解](https://mp.weixin.qq.com/s/nMUHqvwzG2LmWA9jMIHwQQ)
 
 ## DP
 | #     |  Tile | Difficulty | Time  | Space | 收藏  |
@@ -133,10 +133,10 @@ x & -x 得到最低位(LSB)的1
 |  198  |  House Robber | Medium |       |       |  ⭐   |
 
 - 参考：
-    [1.台阶问题](https://www.jianshu.com/p/0b1a3cf4442a)
-    [2.程序员小灰DP问题：台阶问题和金矿问题](https://mp.weixin.qq.com/s/3h9iqU4rdH3EIy5m6AzXsg)
-    [3.leetcode强盗问题](https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-How-to-approach-most-of-DP-problems)
-    [4.告别动态规划，连刷 40 道题，我总结了这些套路，看不懂你打我（万字长文） - 帅地的文章 - 知乎](https://zhuanlan.zhihu.com/p/91582909)
+    - [台阶问题](https://www.jianshu.com/p/0b1a3cf4442a)
+    - [程序员小灰DP问题：台阶问题和金矿问题](https://mp.weixin.qq.com/s/3h9iqU4rdH3EIy5m6AzXsg)
+    - [leetcode强盗问题](https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-How-to-approach-most-of-DP-problems)
+    - [告别动态规划，连刷 40 道题，我总结了这些套路，看不懂你打我（万字长文） - 帅地的文章 - 知乎](https://zhuanlan.zhihu.com/p/91582909)
 
  ## Others
 | #     |  Tile | Difficulty | Time  | Space | 收藏  |
@@ -144,4 +144,4 @@ x & -x 得到最低位(LSB)的1
 |  169   |  Majority Element | Easy |       |       |  ⭐   |
 
 - 参考：
-    [1.摩尔投票算法（169题）](https://www.zhihu.com/question/49973163/answer/235921864)
+    - [摩尔投票算法（169题）](https://www.zhihu.com/question/49973163/answer/235921864)
