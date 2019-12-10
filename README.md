@@ -70,6 +70,7 @@
 | 0260  | Single Number III      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0260) | 58.9%    | Medium		 | # |
 | 0268  | Missing Number     | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0268) | 49.7%    | Easy		 | # |
 | 0318  | Maximum Product of Word Lengths    | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0318) | 49.7%    | Medium		 | # |
+| 0338  | Counting Bits    | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0338) | 66.2%    | Medium		 | # |
 | ----  | ------------------------| ------ | ---------- | ---------- | ---- |
 
 ## 分类
