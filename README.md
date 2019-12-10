@@ -69,6 +69,7 @@
 | 0231  | Power of Two      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0231) | 42.6%    | Easy		 | # |
 | 0260  | Single Number III      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0260) | 58.9%    | Medium		 | # |
 | 0268  | Missing Number     | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0268) | 49.7%    | Easy		 | # |
+| 0318  | Maximum Product of Word Lengths    | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0318) | 49.7%    | Medium		 | # |
 | ----  | ------------------------| ------ | ---------- | ---------- | ---- |
 
 ## 分类
@@ -101,6 +102,7 @@ a ^ b ^ c = a ^ (b ^ c) = (a ^ b) ^ c（结合律）（136题）
 
 - 有特殊意义的&位操作运算
 ```
+x & 1 == 1or==0判断x的奇偶性，x&1>0为奇数
 x &= (x-1) 将最低位（LSB）的1清零 (201题、231题)
 x & -x 得到最低位(LSB)的1
 ```
@@ -116,6 +118,8 @@ x & -x 得到最低位(LSB)的1
 |  232   |  Power of Two | Easy |       |       |  ⭐    |
 |  260   |  Single Number III | Medium |       |       |  ⭐    |
 |  268   |  Missing Number | Easy |       |       |  ⭐    |
+|  318   |  Maximum Product of Word Lengths | Medium |       |       |      |
+|  338   |  Counting Bits | Medium |       |       |    ⭐  |
 
 ## Bactracking
 | #     |  Tile | Difficulty | Time  | Space | 收藏  |
