@@ -71,6 +71,7 @@
 | 0268  | Missing Number     | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0268) | 49.7%    | Easy		 | # |
 | 0318  | Maximum Product of Word Lengths    | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0318) | 49.7%    | Medium		 | # |
 | 0338  | Counting Bits    | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0338) | 66.2%    | Medium		 | # |
+| 0342  | Power of Four    | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0342) | 40.9%    | Easy		 | # |
 | ----  | ------------------------| ------ | ---------- | ---------- | ---- |
 
 ## 分类
@@ -104,7 +105,7 @@ a ^ b ^ c = a ^ (b ^ c) = (a ^ b) ^ c（结合律）（136题）
 - 有特殊意义的&位操作运算
 ```
 x & 1 == 1or==0判断x的奇偶性，x&1>0为奇数
-x &= (x-1) 将最低位（LSB）的1清零 (201题、231题)
+x &= (x-1) 将最低位（LSB）的1清零 (201题、231题、338题)
 x & -x 得到最低位(LSB)的1
 ```
 
@@ -121,6 +122,10 @@ x & -x 得到最低位(LSB)的1
 |  268   |  Missing Number | Easy |       |       |  ⭐    |
 |  318   |  Maximum Product of Word Lengths | Medium |       |       |      |
 |  338   |  Counting Bits | Medium |       |       |    ⭐  |
+|  342   |  Power of Four | Easy |       |       |      |
+
+- 参考：
+    - [A summary: how to use bit manipulation to solve problems easily and efficiently](https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary:-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently)
 
 ## Bactracking
 | #     |  Tile | Difficulty | Time  | Space | 收藏  |
