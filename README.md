@@ -72,6 +72,8 @@
 | 0318  | Maximum Product of Word Lengths    | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0318) | 49.7%    | Medium		 | # |
 | 0338  | Counting Bits    | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0338) | 66.2%    | Medium		 | # |
 | 0342  | Power of Four    | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0342) | 40.9%    | Easy		 | # |
+| 0389  | Find the Difference    | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0389) | 	54.0%    | Easy		 | # |
+| 0397  | Integer Replacement    | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0397) | 		32.2%    | Medium		 | # |
 | ----  | ------------------------| ------ | ---------- | ---------- | ---- |
 
 ## 分类
@@ -98,9 +100,13 @@
 - 异或的特性。第136题。
 ```
 x ^ 0 = x（136题）
-x ^ x = 0（136题） 
+x ^ x = 0（136题、389题） 
+a ^ b = c => a ^ c = b => b ^ c => a （交换律）
 a ^ b ^ c = a ^ (b ^ c) = (a ^ b) ^ c（结合律）（136题）
 ```
+
+- 构造特殊的mask，将特殊为设置为0或1
+
 
 - 有特殊意义的&位操作运算
 ```
@@ -123,9 +129,11 @@ x & -x 得到最低位(LSB)的1
 |  318   |  Maximum Product of Word Lengths | Medium |       |       |      |
 |  338   |  Counting Bits | Medium |       |       |    ⭐  |
 |  342   |  Power of Four | Easy |       |       |      |
+|  389   |  Find the Difference | Easy |       |       |   ⭐   |
+|  397   |  Integer Replacement | Medium |       |       |      |
 
 - 参考：
-    - [A summary: how to use bit manipulation to solve problems easily and efficiently](https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary:-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently)
+    - [位运算简介及实用技巧（一）：基础篇](http://www.matrix67.com/blog/archives/263)
 
 ## Bactracking
 | #     |  Tile | Difficulty | Time  | Space | 收藏  |
