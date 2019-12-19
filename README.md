@@ -36,6 +36,7 @@
 | 0009  | Palindrome Number  | [GO]() | 45.0%      | Easy | # |
 | 0011  | Container With Most Water | [GO]() | 46.8%      | Medium | # |
 | 0013  | Roman to Integer | [GO]() | 53.3%      | Easy | # |
+| 0017  | Letter Combinations of a Phone Number  | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0017) | 42.0%      | Medium | # |
 | 0020  | Valid Parentheses | [GO]() | 37.3%      | Easy | # |
 | 0021  | Merge Two Sorted Lists  | [GO]() | 49.0%      | Easy | # |
 | 0026  | Remove Duplicates from Sorted Array | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0026) | 42.0%      | Easy | # |
@@ -135,9 +136,13 @@ x & -x 得到最低位(LSB)的1
 - 参考：
     - [位运算简介及实用技巧（一）：基础篇](http://www.matrix67.com/blog/archives/263)
 
-## Bactracking
+## Backtracking
+- 排列问题Permutation：
+- 组合问题Combination：第17题
+
 | #     |  Tile | Difficulty | Time  | Space | 收藏  |
 |:----: | :---: | :--------: | :---: | :---: | :---: |
+|  17   |  Letter Combinations of a Phone Number | Medium |       |       |  ⭐   |
 |  78   |  Subsets | Medium |       |       |  ⭐   |
 
 - 参考：
