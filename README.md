@@ -39,6 +39,7 @@
 | 0017  | Letter Combinations of a Phone Number  | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0017) | 42.0%      | Medium | # |
 | 0020  | Valid Parentheses | [GO]() | 37.3%      | Easy | # |
 | 0021  | Merge Two Sorted Lists  | [GO]() | 49.0%      | Easy | # |
+| 0022  | Generate Parentheses  | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0022) | 58.6%      | Medium | # |
 | 0026  | Remove Duplicates from Sorted Array | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0026) | 42.0%      | Easy | # |
 | 0027  | Remove Element    | [GO]() | 45.6%      | Easy | # |
 | 0031  | Next Permutation  | [GO]() | 31.1%      | Medium | # |
@@ -143,6 +144,7 @@ x & -x 得到最低位(LSB)的1
 | #     |  Tile | Difficulty | Time  | Space | 收藏  |
 |:----: | :---: | :--------: | :---: | :---: | :---: |
 |  17   |  Letter Combinations of a Phone Number | Medium |       |       |  ⭐   |
+|  22   |  Generate Parentheses  | Medium |       |       |  ⭐   |
 |  78   |  Subsets | Medium |       |       |  ⭐   |
 
 - 参考：
