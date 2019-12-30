@@ -45,14 +45,20 @@
 | 0031  | Next Permutation  | [GO]() | 31.1%      | Medium | # |
 | 0033  | Search in Rotated Sorted Array      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0033) | 33.2%      | Medium | # |
 | 0035  | Search Insert Position    | [GO]() | 41.2%      | Easy | # |
+| 0039  | Combination Sum    | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0039) | 52.3%      | Medium | # |
+| 0040  | Combination Sum II    | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0040) | 44.8%      | Medium | # |
+| 0046  | Permutations     | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0046) | 59.2%      | Medium	 | # |
+| 0047  | Permutations II     | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0047) | 43.5%      | Medium	 | # |
 | 0048  | Rotate Image     | [GO]() | 50.7%      | Medium	 | # |
 | 0054  | Spiral Matrix    | [GO]() | 31.5%      | Medium	 | # |
 | 0056  | Merge Intervals     | [GO]() | 36.7%      | Medium	 | # |
 | 0057  | Insert Interval      | [GO]() | 31.8%      | Hard	 | # |
 | 0059  | Spiral Matrix II      | [GO]() | 48.5%      | Medium	 | # |
+| 0060  | Permutation Sequence      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0060) | 34.8%     | Medium	 | # |
 | 0066  | Plus One       | [GO]() | 41.7%      | Easy	 | # |
 | 0073  | Set Matrix Zeroes     | [GO]() | 40.9%      | Medium	 | # |
 | 0074  | Search a 2D Matrix      | [GO]() | 35.3%      | Medium	 | # |
+| 0077  | Combinations      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0077) | 51.3%      | Medium	 | # |
 | 0078  | Subsets      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0078) | 55.2%     | Medium	 | # |
 | 0080  | 	Remove Duplicates from Sorted Array II | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0080) | 41.4% | Medium	 | # |
 | 0151  | Reverse Words in a String  | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0151) | 18.5%  | Medium	 | # |
@@ -138,13 +144,19 @@ x & -x 得到最低位(LSB)的1
     - [位运算简介及实用技巧（一）：基础篇](http://www.matrix67.com/blog/archives/263)
 
 ## Backtracking
-- 排列问题Permutation：
-- 组合问题Combination：第17题
+- 排列问题Permutation：第46题、第47题、第60题、
+- 组合问题Combination：第17题、第39题、第40题、第77题
 
 | #     |  Tile | Difficulty | Time  | Space | 收藏  |
 |:----: | :---: | :--------: | :---: | :---: | :---: |
 |  17   |  Letter Combinations of a Phone Number | Medium |       |       |  ⭐   |
 |  22   |  Generate Parentheses  | Medium |       |       |  ⭐   |
+|  39   |  Combination Sum  | Medium |       |       |     |
+|  40   |  Combination Sum II | Medium |       |       |     |
+|  46   |  Permutations   | Medium |       |       |     |
+|  47   |  Permutations II  | Medium |       |       |     |
+|  60   |  Permutation Sequence  | Medium |       |       |     |
+|  77   |  Combinations  | Medium |       |       |     |
 |  78   |  Subsets | Medium |       |       |  ⭐   |
 
 - 参考：
