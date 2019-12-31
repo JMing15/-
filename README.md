@@ -60,6 +60,7 @@
 | 0074  | Search a 2D Matrix      | [GO]() | 35.3%      | Medium	 | # |
 | 0077  | Combinations      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0077) | 51.3%      | Medium	 | # |
 | 0078  | Subsets      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0078) | 55.2%     | Medium	 | # |
+| 0079  | Word Search      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0079) | 33.2%    | Medium	 | # |
 | 0080  | 	Remove Duplicates from Sorted Array II | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0080) | 41.4% | Medium	 | # |
 | 0151  | Reverse Words in a String  | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0151) | 18.5%  | Medium	 | # |
 | 0152  | Maximum Product Subarray  | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0152) | 30.4% | Medium	 | # |
@@ -146,6 +147,7 @@ x & -x 得到最低位(LSB)的1
 ## Backtracking
 - 排列问题Permutation：第46题、第47题、第60题、
 - 组合问题Combination：第17题、第39题、第40题、第77题
+- 四方向搜索问题。第79题
 
 | #     |  Tile | Difficulty | Time  | Space | 收藏  |
 |:----: | :---: | :--------: | :---: | :---: | :---: |
@@ -158,6 +160,7 @@ x & -x 得到最低位(LSB)的1
 |  60   |  Permutation Sequence  | Medium |       |       |     |
 |  77   |  Combinations  | Medium |       |       |     |
 |  78   |  Subsets | Medium |       |       |  ⭐   |
+|  79   |  Word Search | Medium |       |       |  ⭐   |
 
 - 参考：
     - [回溯算法详解](https://mp.weixin.qq.com/s/nMUHqvwzG2LmWA9jMIHwQQ)
