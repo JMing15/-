@@ -75,6 +75,7 @@
 | 0191  | Number of 1 Bits      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0191) | 45.8%     | Easy	 | # |
 | 0198  | SuHouse Robberbsets      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0198) | 41.4%     | Easy	 | # |
 | 0201  | Bitwise AND of Numbers Range      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0201) | 36.8%     | Medium		 | # |
+| 0206  | Reverse Linked List      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0206) | 59.8%     | Easy		 | # |
 | 0231  | Power of Two      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0231) | 42.6%    | Easy		 | # |
 | 0260  | Single Number III      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0260) | 58.9%    | Medium		 | # |
 | 0268  | Missing Number     | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0268) | 49.7%    | Easy		 | # |
@@ -86,7 +87,10 @@
 | ----  | ------------------------| ------ | ---------- | ---------- | ---- |
 
 ## 分类
-## 
+## Linked List
+| #     |  Tile | Difficulty | Time  | Space | 收藏  |
+|:----: | :---: | :--------: | :---: | :---: | :---: |
+|  206   |  Two Sum II - Input array is sorted | Easy |       |        |         |
 
 ## Array
 | #     |  Tile | Difficulty | Time  | Space | 收藏  |
