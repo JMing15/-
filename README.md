@@ -28,7 +28,7 @@
 ## 一.目录
 | #     |  Tile | Solution | Acceptance | Difficulty | Frequency | 
 |:----: | :---: | :------: | :--------: | :--------: | :-------: | 
-| 0001  | Two Sum | [GO]() | 44.5%      | Easy | # |
+| 0001  | Two Sum | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0001) | 45.1%      | Easy | # |
 | 0002  | Add Two Numbers | [GO]() | 31.8%      | Medium	 | # |
 | 0003  | Longest Substring Without Repeating Characters  | [GO]() | 28.9%      | Medium | # |
 | 0006  | ZigZag Conversion | [GO]() | 33.3%      | Medium | # |
@@ -62,6 +62,7 @@
 | 0078  | Subsets      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0078) | 55.2%     | Medium	 | # |
 | 0079  | Word Search      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0079) | 33.2%    | Medium	 | # |
 | 0080  | 	Remove Duplicates from Sorted Array II | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0080) | 41.4% | Medium	 | # |
+| 0121  | Best Time to Buy and Sell Stock  | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0121) | 49.5%  | Easy	 | # |
 | 0151  | Reverse Words in a String  | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0151) | 18.5%  | Medium	 | # |
 | 0152  | Maximum Product Subarray  | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0152) | 30.4% | Medium	 | # |
 | 0155  | Min Stack    | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0155) | 39.7% | Easy	 | # |
@@ -87,15 +88,12 @@
 | ----  | ------------------------| ------ | ---------- | ---------- | ---- |
 
 ## 分类
-## Linked List
-| #     |  Tile | Difficulty | Time  | Space | 收藏  |
-|:----: | :---: | :--------: | :---: | :---: | :---: |
-|  206   |  Two Sum II - Input array is sorted | Easy |       |        |         |
-
 ## Array
 | #     |  Tile | Difficulty | Time  | Space | 收藏  |
 |:----: | :---: | :--------: | :---: | :---: | :---: |
-|  167   |  Two Sum II - Input array is sorted | Easy |       |        |         |
+|  1    |  Two Sum | Easy |       |        |         |
+|  121  |  Best Time to Buy and Sell Stock  | Easy |       |        |         |
+|  167  |  Two Sum II - Input array is sorted | Easy |       |        |         |
 
 ## String
 | #     |  Tile | Difficulty | Time  | Space | 收藏  |
@@ -103,6 +101,11 @@
 |  151    |  Reverse Words in a String  |   Medium   |       |        |         |
 |  166    |  Fraction to Recurring Decimal  |   Medium   |       |        |         |
 |  187   |  Repeated DNA Sequences | Medium |       |       |     |
+
+## Linked List
+| #     |  Tile | Difficulty | Time  | Space | 收藏  |
+|:----: | :---: | :--------: | :---: | :---: | :---: |
+|  206   |  Two Sum II - Input array is sorted | Easy |       |        |         |
 
 ## Stack
 | #     |  Tile | Difficulty | Time  | Space | 收藏  |
@@ -169,7 +172,7 @@ x & -x 得到最低位(LSB)的1
 - 参考：
     - [回溯算法详解](https://mp.weixin.qq.com/s/nMUHqvwzG2LmWA9jMIHwQQ)
 
-## DP
+## Dynamic Programming
 | #     |  Tile | Difficulty | Time  | Space | 收藏  |
 |:----: | :---: | :--------: | :---: | :---: | :---: |
 |  78   |  Subsets | Medium |       |       |  ⭐   |
