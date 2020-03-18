@@ -14,8 +14,12 @@
   - [String](#string)
   - [Linked List](#linked-list)
   - [Stack](#stack)
-  - [Backtracking](#backtracking)
+  - [Tree](#tree)
   - [Dynamic Programming](#dynamic-programming)
+  - [Backtracking](#backtracking)
+  - [Depth-first Search](#depth-first-search)
+  - [Breadth-first Search](#breadth-first-search)
+  - [Math](#math)
   - [Bit Manipulation](#bit-manipulation)
   - [Union Find](#union-find)
   - [Others](#others)
@@ -57,7 +61,8 @@
 | 0077  | Combinations      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0077) | 51.3%      | 中等	 | # |
 | 0078  | Subsets      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0078) | 55.2%     | 中等	 | # |
 | 0079  | Word Search      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0079) | 33.2%    | 中等	 | # |
-| 0080  | 	Remove Duplicates from Sorted Array II | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0080) | 41.4% | 中等	 | # |
+| 0080  | Remove Duplicates from Sorted Array II | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0080) | 41.4% | 中等	 | # |
+| 0094  | 二叉树的中序遍历 | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0094) | 70.5% | 中等	 | # |
 | 0121  | Best Time to Buy and Sell Stock  | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0121) | 49.5%  | 简单	 | # |
 | 0141  | 环形链表  | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0141) | 46.9%  | 简单	 | # |
 | 0151  | Reverse Words in a String  | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0151) | 18.5%  | 中等	 | # |
@@ -66,7 +71,7 @@
 | 0166  | Fraction to Recurring Decimal  | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0155) | 25.3%  | 中等	 | # |
 | 0167  | Two Sum II - Input array is sorted  | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0167) | 51.9%  | 	简单	 | # |
 | 0168  | Excel Sheet Column Title  | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0168) | 29.9%  | 	简单	 | # |
-| 0169  | Majority Element  | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0169) | 54.9%  | 	简单	 | # |
+| 0169  | 多数元素  | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0169) | 54.9%  | 	简单	 | # |
 | 0171  | Majority Element  | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0171) | 52.8%  | 	简单	 | # |
 | 0187  | Repeated DNA Sequences | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0187) | 37.4%  | 	中等	 | # |
 | 0190  | Reverse Bits      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0190) | 41.4%     | 简单	 | # |
@@ -77,12 +82,16 @@
 | 0231  | Power of Two      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0231) | 42.6%    | 简单		 | # |
 | 0260  | Single Number III      | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0260) | 58.9%    | 中等		 | # |
 | 0268  | Missing Number     | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0268) | 49.7%    | 简单		 | # |
+| 0300  | 最长上升子序列     | [GO](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | 43.9%    | 中等		 | # |
 | 0318  | Maximum Product of Word Lengths    | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0318) | 49.7%    | 中等		 | # |
 | 0338  | Counting Bits    | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0338) | 66.2%    | 中等		 | # |
 | 0342  | Power of Four    | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0342) | 40.9%    | 简单		 | # |
 | 0389  | Find the Difference    | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0389) | 	54.0%    | 简单		 | # |
 | 0397  | Integer Replacement    | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0397) | 		32.2%    | 中等		 | # |
+| 0695  | 岛屿的最大面积    | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0695) | 		61.2%    | 中等		 | # |
+| 0836  | 矩形重叠    | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/0836) | 		48.6%    | 简单		 | # |
 | 1071  | 字符串的最大公因子    | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/1071) | 		58.2%    | 中等		 | # |
+| 1160  | 拼写单词    | [GO](https://github.com/JMing15/LeetCode-Cpp/tree/master/Algorithm/1160) | 		68.3%    | 简单		 | # |
 | ----  | ------------------------| ------ | ---------- | ---------- | ---- |
 
 ## 分类
@@ -101,6 +110,7 @@
 |  166    |  Fraction to Recurring Decimal  |   中等   |       |        |         |
 |  187   |  Repeated DNA Sequences | 中等 |       |       |     |
 |  1071   |  字符串的最大公因子 | 简单 |       |       |  ⭐   |
+|  1160   |  拼写单词  | 简单 |       |       |     |
 
 ## Linked List
 | #     |  Tile | Difficulty | Time  | Space | 收藏  |
@@ -112,6 +122,25 @@
 | #     |  Tile | Difficulty | Time  | Space | 收藏  |
 |:----: | :---: | :--------: | :---: | :---: | :---: |
 |  155 | Min Stack |  简单  |       |        |         |
+
+## Tree
+| #     |  Tile | Difficulty | Time  | Space | 收藏  |
+|:----: | :---: | :--------: | :---: | :---: | :---: |
+|  94   |  二叉树的中序遍历 | 中等 |       |       |  ⭐   |
+
+## Dynamic Programming
+| #     |  Tile | Difficulty | Time  | Space | 收藏  |
+|:----: | :---: | :--------: | :---: | :---: | :---: |
+|  78   |  Subsets | 中等 |       |       |  ⭐   |
+|  152  |  Maximum Product Subarray | 中等 |       |       |     |
+|  198  |  House Robber | 中等 |       |       |  ⭐   |
+|  300  |  最长上升子序列 | 中等 |       |       |  ⭐   |
+
+- 参考：
+    - [台阶问题](https://www.jianshu.com/p/0b1a3cf4442a)
+    - [程序员小灰DP问题：台阶问题和金矿问题](https://mp.weixin.qq.com/s/3h9iqU4rdH3EIy5m6AzXsg)
+    - [leetcode强盗问题](https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-How-to-approach-most-of-DP-problems)
+    - [告别动态规划，连刷 40 道题，我总结了这些套路，看不懂你打我（万字长文） - 帅地的文章 - 知乎](https://zhuanlan.zhihu.com/p/91582909)
 
 ## Backtracking
 - 排列问题Permutation：第46题、第47题、第60题、
@@ -134,19 +163,21 @@
 - 参考：
     - [回溯算法详解](https://mp.weixin.qq.com/s/nMUHqvwzG2LmWA9jMIHwQQ)
 
-## Dynamic Programming
+## Depth-first Search
 | #     |  Tile | Difficulty | Time  | Space | 收藏  |
 |:----: | :---: | :--------: | :---: | :---: | :---: |
-|  78   |  Subsets | 中等 |       |       |  ⭐   |
-|  152  |  Maximum Product Subarray | 中等 |       |       |     |
-|  198  |  House Robber | 中等 |       |       |  ⭐   |
+|  695   |  岛屿的最大面积 | 中等 |       |       |  ⭐   |
 
-- 参考：
-    - [台阶问题](https://www.jianshu.com/p/0b1a3cf4442a)
-    - [程序员小灰DP问题：台阶问题和金矿问题](https://mp.weixin.qq.com/s/3h9iqU4rdH3EIy5m6AzXsg)
-    - [leetcode强盗问题](https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-How-to-approach-most-of-DP-problems)
-    - [告别动态规划，连刷 40 道题，我总结了这些套路，看不懂你打我（万字长文） - 帅地的文章 - 知乎](https://zhuanlan.zhihu.com/p/91582909)
-  
+## Breadth-first Search
+| #     |  Tile | Difficulty | Time  | Space | 收藏  |
+|:----: | :---: | :--------: | :---: | :---: | :---: |
+|  695   |  岛屿的最大面积 | 中等 |       |       |  ⭐   |
+
+## Math
+| #     |  Tile | Difficulty | Time  | Space | 收藏  |
+|:----: | :---: | :--------: | :---: | :---: | :---: |
+|  836   |  矩形重叠 | 简单 |       |       |     |
+
 ## Bit Manipulation
 - 异或的特性。第136题。
 ```
@@ -198,7 +229,7 @@ x & -x 得到最低位(LSB)的1
  ## Others
 | #     |  Tile | Difficulty | Time  | Space | 收藏  |
 |:----: | :---: | :--------: | :---: | :---: | :---: |
-|  169   |  Majority Element | 简单 |       |       |  ⭐   |
+|  169   |  多数元素 | 简单 |       |       |  ⭐   |
 
 - 参考：
     - [摩尔投票算法（169题）](https://www.zhihu.com/question/49973163/answer/235921864)
